@@ -21,6 +21,5 @@ Pull Request haciendo modificación directamente en el archivo del repositorio
 7.Añade comentarios y darle en Create Pull Request
 
 # Añade tu nombre abajo de esta linea:
-
-Juan Guillermo Zapata
 Wilfredo Vargas Vinasco
+Juan Guillermo Zapata
