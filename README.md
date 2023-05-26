@@ -22,4 +22,7 @@ Pull Request haciendo modificación directamente en el archivo del repositorio
 
 # Añade tu nombre abajo de esta linea:
 
+
+Juan Guillermo Zapata
+Yulitza Hernandez
 Alejandra Echeverri Torres
