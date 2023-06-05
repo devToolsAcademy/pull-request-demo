@@ -8,3 +8,7 @@ console.error("Error generico para estudiar.");
 for(let i=0;i<6;i++){
     console.log(i);
 }
+
+//Agregar Suma.
+let suma = 1+1;
+console.log(suma);
