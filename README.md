@@ -24,3 +24,4 @@ Pull Request haciendo modificación directamente en el archivo del repositorio
 
 Juan Guillermo Zapata
 Yulitza Hernandez
+Tatiana Roldan
